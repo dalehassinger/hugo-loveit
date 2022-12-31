@@ -1,12 +1,12 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/dhassinger/loveit/themes/LoveIt/exampleSite",
+	"sourceRoot": "/Users/dhassinger/loveit/themes/LoveIt/vcrocs",
 	"sources": [
 		"/Users/dhassinger/loveit/themes/LoveIt/assets/css/style.scss",
 		"assets/lib/normalize/normalize.css",
 		"assets/css/_variables.scss",
-		"exampleSite/assets/css/_override.scss",
+		"vcrocs/assets/css/_override.scss",
 		"assets/css/_core/_variables.scss",
 		"assets/css/_mixin/_index.scss",
 		"assets/css/_mixin/_compatibility.scss",
@@ -43,7 +43,7 @@
 		"assets/css/_core/_footer.scss",
 		"assets/css/_core/_pagination.scss",
 		"assets/css/_core/_media.scss",
-		"exampleSite/assets/css/_custom.scss"
+		"vcrocs/assets/css/_custom.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n@import \"../lib/normalize/normalize\";\n\n@import \"_variables\";\n@import \"_override\";\n@import \"_core/variables\";\n\n@import \"_mixin/index\";\n\n@import \"_core/base\";\n@import \"_core/layout\";\n\n@import \"_page/index\";\n\n@import \"_core/header\";\n@import \"_core/footer\";\n@import \"_core/pagination\";\n@import \"_core/media\";\n\n@import \"_custom\";\n",

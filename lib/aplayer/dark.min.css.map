@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "dark.min.css",
-	"sourceRoot": "/Users/dhassinger/loveit/themes/LoveIt/exampleSite",
+	"sourceRoot": "/Users/dhassinger/loveit/themes/LoveIt/vcrocs",
 	"sources": [
 		"/Users/dhassinger/loveit/themes/LoveIt/assets/lib/aplayer/dark.scss"
 	],

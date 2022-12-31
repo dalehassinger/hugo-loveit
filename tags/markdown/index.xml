@@ -1,9 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Markdown - Tag - LoveIt</title>
+        <title>Markdown - Tag - vCROCS</title>
         <link>https://dalehassinger.github.io/hugo-loveit/tags/markdown/</link>
-        <description>Markdown - Tag - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://dalehassinger.github.io/hugo-loveit/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+        <description>Markdown - Tag - vCROCS</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Dale.Hassinger@vCROCS.info (| Dale Hassinger)</managingEditor>
+            <webMaster>Dale.Hassinger@vCROCS.info (| Dale Hassinger)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</lastBuildDate><atom:link href="https://dalehassinger.github.io/hugo-loveit/tags/markdown/" rel="self" type="application/rss+xml" /><item>
     <title>Theme Documentation - Content</title>
     <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-content/</link>
     <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>

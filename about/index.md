@@ -1,115 +1,86 @@
-# About LoveIt
+# Dale Hassinger
 
 
-{{< style "img { height: 1.25rem; }" >}}
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/releases)
-[![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-[![License](https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square)](https://github.com/dillonzq/LoveIt/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt)
-[![GitHub forks](https://img.shields.io/github/forks/dillonzq/LoveIt?style=social)](https://github.com/dillonzq/LoveIt/fork)
-{{< /style >}}
+{{< image src="author.png" caption="">}}
 
-> [:(far fa-kiss-wink-heart fa-fw): LoveIt](https://github.com/dillonzq/LoveIt) is a **clean**, **elegant** but **advanced** blog theme for [Hugo](https://gohugo.io/) developed by {{< person "https://dillonzq.com/" Dillon "author of the LoveIt theme" "/Dillon.png" >}}.
->
-> It is based on the original [LeaveIt Theme](https://github.com/liuzc/LeaveIt) and [KeepIt Theme](https://github.com/Fastbyte01/KeepIt).
+>If you can script it, You can Automate it!  
 
-![Hugo Theme LoveIt](/images/Apple-Devices-Preview.png "Hugo Theme LoveIt")
+{{< admonition type=info title="about" open=true >}}
+* TAM (Technical Account Manager)  
+* VMware vExpert 2020 - 2022  
+* VMware vExpert Cloud Management 2021 - 2022  
+{{< /admonition >}}
 
-## Features
+{{< image src="vexpert-2022.png" caption="">}}
+{{< image src="vexpert-2022-3-stars.png" caption="" >}}
+{{< image src="vexpert-cloud-management.png" caption="" >}}
 
-### Performance and SEO
+{{< admonition type=info title="Info" open=true >}}
+The views and opinions expressed on this blog are my strictly my own and do not reflect the views and opinions of my employer. I Blog about Subjects and Products that I find interesting and will hopefully help someone get started on their Automation, Monitoring and Logging journey by providing some tips|tricks|processes|code needed.  
+{{< /admonition >}}
 
-* :(fas fa-rocket fa-fw): Optimized for **performance**: [99]/[100] on mobile and [100]/[100] on desktop in [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights)
-* :(fab fa-searchengin fa-fw): Optimized SEO performance with a correct **SEO SCHEMA** based on JSON-LD
-* :(fab fa-google fa-fw): **[Google Analytics](https://analytics.google.com/analytics)** supported
-* :(far fa-chart-bar fa-fw): **[Fathom Analytics](https://usefathom.com/)** supported
-* :(fas fa-chart-column fa-fw): **[Plausible Analytics](https://plausible.io/)** supported
-* :(fab fa-yandex-international fa-fw): **[Yandex Metrica](https://metrica.yandex.com/)** supported
-* :(fas fa-sitemap fa-fw): Search engine **verification** supported (Google, Bind, Yandex and Baidu)
-* :(fas fa-tachometer-alt fa-fw): **CDN** for third-party libraries supported
-* :(fas fa-cloud-download-alt fa-fw): Automatically converted images with **Lazy Load** by [lazysizes](https://github.com/aFarkas/lazysizes)
+My current focus is Enterprise Automation | Monitoring and Logging. I have created an IaC (Infrastructure as Code) Environment. I am using VMware vRealize Automation and SaltStack Config to complete server builds, software installs, schedule VM snap shots, Microsoft 365 automation, Citrix Management, Automate Data Center Flips, Server Decommissions, and many other Day 2 processes… For monitoring I use vRealize Operations for the “Single Pane of Glass” experience. I also use vRealize Log Insight for logging and LCM (Life Cycle Manager) for installing all the vRealize Products.
 
-### Appearance and Layout
+Almost all the code I write to complete the Automation that I create is done with PowerShell. The reason I choose to use PowerShell is because to do Automation with VMware products they have released their product PowerCLI, which is built on top of PowerShell. There hasn’t been anything that I wanted to Automate that I haven’t been able to do with PowerShell. To do remote Citrix management also works very well using PowerShell.
 
-* :(fas fa-mobile-screen fa-fw): **[Desktop]/[Mobile] responsive** layout
-* :(fas fa-circle-half-stroke fa-rotate-180 fa-fw): **[Light]/[Dark]** mode
-* :(fas fa-layer-group fa-fw): Globally consistent **design language**
-* :(fas fa-ellipsis-h fa-fw): **Pagination** supported
-* :(far fa-list-alt fa-fw): Easy-to-use and self-expanding **table of contents**
-* :(fas fa-language fa-fw): **Multilanguage** supported and i18n ready
-* :(fab fa-css3-alt fa-fw): Beautiful **CSS animation**
+I have also started to do Automation with Azure. I am using PowerShell to create VMs and SaltStack Config to complete the configuration management, install software and maintain state.  
 
-### Social and Comment Systems
+>Your thought process is the most powerful automation tool you’ll ever have! - Cody De Arkland  
 
-* :(far fa-user fa-fw): **Gravatar** supported by [Gravatar](https://gravatar.com)
-* :(fas fa-user-circle fa-fw): Local **Avatar** supported
-* :(far fa-id-card fa-fw): Up to **73** social links supported
-* :(fas fa-share-square fa-fw): Up to **24** share sites supported
-* :(far fa-comment fa-fw): **Disqus** comment system supported by [Disqus](https://disqus.com)
-* :(far fa-comment-dots fa-fw): **Gitalk** comment system supported by [Gitalk](https://github.com/gitalk/gitalk)
-* :(far fa-comment-alt fa-fw): **Valine** comment system supported by [Valine](https://valine.js.org/)
-* :(far fa-comments fa-fw): **Facebook comments** system supported by [Facebook](https://developers.facebook.com/docs/plugins/comments/)
-* :(fas fa-comment fa-fw): **Telegram comments** system supported by [Comments](https://comments.app/)
-* :(fas fa-comment-dots fa-fw): **Commento** comment system supported by [Commento](https://commento.io/)
-* :(fas fa-comment-alt fa-fw): **utterances** comment system supported by [utterances](https://utteranc.es/)
-* :(fas fa-comments fa-fw): **giscus** comment system supported by [giscus](https://giscus.app/)
+{{< admonition type=success title="vCommunity" open=true >}}
+I have learned a lot from the vCommunity, Powershell and PowerCLI web sites. I want to use this blog as a way for me to give back. If one person finds anything I post helpful, I will consider my efforts successful.  
 
-### Extended Features
+The code that I have shared I use with vRealize Automation Cloud Templates/Catalog Items and everyday VMware Admin functions. Everyday I learn something new. If I think it should be shared I will write a blog about it. Check back often to see what I am doing next.  
 
-* :(fas fa-search fa-fw): **Search** supported by [Lunr.js](https://lunrjs.com/) or [algolia](https://www.algolia.com/)
-* :(far fa-grin-tongue-wink fa-fw): **Twemoji** supported
-* :(fas fa-code fa-fw): Automatically **highlighting** code
-* :(far fa-copy fa-fw): **Copy code** to clipboard with one click
-* :(far fa-images fa-fw): **Images gallery** supported by [lightGallery](https://github.com/sachinchoolur/lightgallery)
-* :(fab fa-font-awesome fa-fw): Extended Markdown syntax for **[Font Awesome](https://fontawesome.com/) icons**
-* :(fas fa-superscript fa-fw): Extended Markdown syntax for **ruby annotation**
-* :(fas fa-percentage fa-fw): Extended Markdown syntax for **fraction**
-* :(fas fa-square-root-alt fa-fw): **Mathematical formula** supported by [$\KaTeX$](https://katex.org/)
-* :(fas fa-project-diagram fa-fw): **Diagrams** shortcode supported by [mermaid](https://github.com/mermaid-js/mermaid)
-* :(fas fa-chart-pie fa-fw): **Interactive data visualization** shortcode supported by [ECharts](https://echarts.apache.org/)
-* :(fas fa-map-marked-alt fa-fw): **Mapbox** shortcode supported by [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
-* :(fas fa-music fa-fw): **Music player** shortcode supported by [APlayer](https://github.com/MoePlayer/APlayer) and [MetingJS](https://github.com/metowolf/MetingJS)
-* :(fab fa-bilibili fa-fw): **Bilibili player** shortcode
-* :(fas fa-note-sticky fa-fw): Kinds of **admonitions** shortcode
-* :(fab fa-css3 fa-fw): **Custom style** shortcode
-* :(fab fa-js-square fa-fw): **Custom script** shortcode
-* :(fas fa-i-cursor fa-fw): **Animated typing** supported by [TypeIt](https://typeitjs.com/)
-* :(fas fa-cookie-bite fa-fw): **Cookie consent banner** supported by [cookieconsent](https://github.com/osano/cookieconsent)
-* :(far fa-user-circle fa-fw): **Person** shortcode
-* ...
+{{< /admonition >}}
 
-## License
+>“It doesn’t make sense to hire smart people and then tell them what to do, We hire smart people so they can tell us what to do.” - Steve Jobs  
 
-LoveIt is licensed under the **MIT** license.
+{{< admonition type=success title="Thanks!" open=true >}}
+* I have worked with a great group of people at VMware, past and present. I would like to thank the following people for all their support in no particular order: Steve Leiberson, Karl Hauck, Cosmin Trif, Brock Peterson, Kevin Holland, Daniel Thomas, Marcus Roberts, Paul Schlosser, Eric Pennente.
+* Special Thanks to David Kruse for getting me started with vRA.
+* Special Thanks to Vincent Riccio for allowing me to do SaltStack Config Presentations with you at VMworld 21 and SaltConf 21.  
+* Special Thanks to my first manager at VMware: Alex Musicante. You believed in me and my passion/skills/knowledge of the VMware Products. You gave me a career opportunity that no one else did.
+* Special Thanks to some past and present co-workers, SEs, TAMs, HVC Members that I learned a lot from: Kirk Shaffer, Robert Mitchell, Dan Grove, Steve Holmes, Steve Pittenger, Anton Wesztergom (Opened my eyes to vRA Day 2), Ryan Palmer, Megan Koss, Josh Demcher.
+* Special Thanks to the person that gave me my first Job in IT: David Cornelius
+* List of Bloggers that I follow and have learned a lot by them “Giving Back”: Cody De Arkland, Luc Dekens, Kyle Ruddy, William Lam, Nathen Bennett, Vince Wood, Alan Renouf.
+* and anyone else that helped me in my journey called my career…
+{{< /admonition >}}
 
-Check the [LICENSE file](https://github.com/dillonzq/LoveIt/blob/master/LICENSE) for details.
+{{< admonition type=success title="Experience" open=true >}}
+* VMware Aria
+* VMware Aria Hub
+* VMware Aria Graph
+* VMware Aria Automation
+* VMware Aria Automation Config
+* VMware Aria Operations
+* VMware Aria Operations for Logs
+* VMware vSphere
+* VMware vCenter
+* vRealize Automation
+* vRealize SaltStack Config
+* vRealize Operations
+* PowerShell
+* PowerCLI
+* vRealize Log Insight
+* Windows Servers
+* Linux Servers
+* Ansible
+{{< /admonition >}}
 
-## Special Thanks
+>"9 - 5 pays the bills, 5 - 10 advances your career" - Author Unknown  
 
-Thanks to the authors of following resources included in the theme:
+{{< admonition type=success title="vCommunity Activities" open=true >}}
+* VMware vExpert | 2020 - 2022
+* VMware vExpert - Cloud Management | 2021 - 2022
+* SaltConf Session - 2021 | Managing Windows with SaltStack Config | 
+* VMworld Session - 2021 | Manage Windows Workloads Through vRealize Automation SaltStack Config [MCL1895]
+* VMware PowerBlock - 2021 | Customer Showcase - VM Right Sizing
+* VMware PowerBlock- 2020 | vRealize Operations, your monitoring “Single Pane of Glass
+* vBrownbag session for VMworld - 2020 | vRealize Operations, your monitoring “Single Pane of Glass
+{{< /admonition >}}
 
-* [normalize.css](https://github.com/necolas/normalize.css)
-* [Font Awesome](https://fontawesome.com/)
-* [Simple Icons](https://github.com/simple-icons/simple-icons)
-* [Animate.css](https://daneden.github.io/animate.css/)
-* [autocomplete](https://github.com/algolia/autocomplete)
-* [Lunr.js](https://lunrjs.com/)
-* [algoliasearch](https://github.com/algolia/algoliasearch-client-javascript)
-* [lazysizes](https://github.com/aFarkas/lazysizes)
-* [object-fit-images](https://github.com/fregante/object-fit-images)
-* [Twemoji](https://github.com/twitter/twemoji)
-* [emoji-data](https://github.com/iamcal/emoji-data)
-* [lightGallery](https://github.com/sachinchoolur/lightgallery)
-* [clipboard.js](https://github.com/zenorocha/clipboard.js)
-* [Sharer.js](https://github.com/ellisonleao/sharer.js)
-* [TypeIt](https://typeitjs.com/)
-* [$\KaTeX$](https://katex.org/)
-* [mermaid](https://github.com/mermaid-js/mermaid)
-* [ECharts](https://echarts.apache.org/)
-* [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js)
-* [APlayer](https://github.com/MoePlayer/APlayer)
-* [MetingJS](https://github.com/metowolf/MetingJS)
-* [Gitalk](https://github.com/gitalk/gitalk)
-* [Valine](https://valine.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
+{{< admonition type=info title="Info" open=true >}}
+I like to wear Crocs and I like VMware Products. So what better name than "vCrocs"  
+{{< /admonition >}}
 
