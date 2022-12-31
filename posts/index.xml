@@ -4,7 +4,7 @@
         <link>https://dalehassinger.github.io/hugo-loveit/posts/</link>
         <description>All Posts | </description>
         <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 30 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://dalehassinger.github.io/hugo-loveit/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Ansible</title>
+    <title>VMware Aria Automation and Ansible Integration</title>
     <link>https://dalehassinger.github.io/hugo-loveit/posts/vmware-aria-automation-ansible-integration/</link>
     <pubDate>Fri, 30 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Dale Hassinger</author>

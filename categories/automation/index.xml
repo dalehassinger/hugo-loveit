@@ -4,7 +4,7 @@
         <link>https://dalehassinger.github.io/hugo-loveit/categories/automation/</link>
         <description>Automation - Category - </description>
         <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 30 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://dalehassinger.github.io/hugo-loveit/categories/automation/" rel="self" type="application/rss+xml" /><item>
-    <title>Ansible</title>
+    <title>VMware Aria Automation and Ansible Integration</title>
     <link>https://dalehassinger.github.io/hugo-loveit/posts/vmware-aria-automation-ansible-integration/</link>
     <pubDate>Fri, 30 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Dale Hassinger</author>
@@ -12,7 +12,7 @@
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
 </item>
 <item>
-    <title>Ansible</title>
+    <title>Basic Markdown</title>
     <link>https://dalehassinger.github.io/hugo-loveit/posts/basic-markdown-syntax/</link>
     <pubDate>Fri, 30 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>Dale Hassinger</author>
