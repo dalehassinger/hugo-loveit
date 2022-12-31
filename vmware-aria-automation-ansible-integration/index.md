@@ -56,7 +56,7 @@ ansible [core 2.13.3]
 
 ---
 
-{{< image title="Above video shows the Ansible Install:" w="" h="" o="webp q1" p="center" c="rounded" src="ansible-install-step-01.gif" >}}
+{{< image src="ansible-install-step-01.gif" caption="Click to see Larger Image of Screen Shot">}}  
 
 ---  
 
@@ -81,7 +81,7 @@ ansible_user=root
 ansible_password='VMware1!'
 ```
 
-{{< image title="Above video shows editing the /etc/ansible/hosts file:" w="" h="" o="webp q1" p="center" c="rounded" src="ansible-install-step-02.gif" >}}
+{{< image src="ansible-install-step-02.gif" caption="Click to see Larger Image of Screen Shot">}}  
 
 ---
 
@@ -104,8 +104,7 @@ This is the minium contents of the /etc/ansible/ansible.cfg file:
 host_key_checking = False
 vault_password_file = /etc/ansible/vault-pass.txt
 ```
-
-{{< image title="Above video shows editing the /etc/ansible/ansible.cfg file:" w="" h="" o="webp q1" p="center" c="rounded" src="ansible-install-step-03.gif" >}}
+{{< image src="ansible-install-step-03.gif" caption="Click to see Larger Image of Screen Shot">}}  
 
 ---
 
@@ -118,16 +117,15 @@ vault_password_file = /etc/ansible/vault-pass.txt
 ansible rocky -m ping
 ```
 
-{{< image title="Above video shows running a ping to test the Ansible install:" w="" h="" o="webp q1" p="center" c="rounded" src="ansible-install-step-04.gif" >}}
+{{< image src="ansible-install-step-04.gif" caption="Click to see Larger Image of Screen Shot">}}  
 
 ---
 
 ## 6 VMware Aria Automation Configuration
 
-- [x] Add Ansible Integration to VMware Aria Automation
+**Add Ansible Integration to VMware Aria Automation:**
 
-{{< image title="" w="" h="" o="webp q1" p="center" c="rounded" src="images/post/ansible-vra-integration.png" >}}
-<a href="https://github.com/dalehassinger/geeky/raw/main/assets/images/post/ansible-vra-integration.png" target="_blank">Click Here to see Larger Image of Screen Shot</a>
+{{< image src="ansible-vra-integration.png" caption="Click to see Larger Image of Screen Shot">}}  
 
 * You need to specify the Inventory File path. Default is /etc/ansible/hosts
 * You need to make sure the /etc/ansible/ansible.cfg file has the following two lines of code to add as an VMware Aria Automation Integration. 
@@ -143,7 +141,7 @@ vault_password_file = /etc/ansible/vault-pass.txt
 
 {{< image src="ansible-vra-integration-details.png" caption="Click to see Larger Image of Screen Shot">}}  
 
-## 6 VMware Aria Automation Cloud Template
+## 7 VMware Aria Automation Cloud Template
 
 **Add Ansible to Cloud Template**
 
@@ -281,7 +279,7 @@ resources:
 
 ---
 
-## 3 Lessons Learned
+## 8 Lessons Learned
 
 {{< admonition type=info title="Lessons Learned:" open=true >}}
 * The VMware Aria Automation | Ansible Integration works well if you follow all the configuration steps.
@@ -289,7 +287,7 @@ resources:
 {{< /admonition >}}
 
 ---
-## 3 Helpful Links
+## 9 Helpful Links
 
 {{< admonition type=info title="VMware Aria Automation | Ansible Links I found to be very helpful:" open=true >}}
 * [Red Hat Ansible Web Site](https://www.ansible.com)
