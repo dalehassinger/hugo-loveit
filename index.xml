@@ -15,6 +15,24 @@
     <description><![CDATA[<p>How to setup and configure your VMware Aria Automation environment to work with Ansible.</p>]]></description>
 </item>
 <item>
+    <title>Productive APPs | 2022</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/productive-apps-2022/</link>
+    <pubDate>Sat, 26 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/productive-apps-2022/</guid>
+    <description><![CDATA[<p><strong>APPs that I use everyday to be Productive | 2022</strong></p>
+<hr>]]></description>
+</item>
+<item>
+    <title>What have I been up to? | 2nd half 2022</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/2nd-half-2022/</link>
+    <pubDate>Tue, 01 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/2nd-half-2022/</guid>
+    <description><![CDATA[<p><strong>New Job | August 2022 | Technical Account Manager (TAM)</strong></p>
+<hr>]]></description>
+</item>
+<item>
     <title>Theme Documentation - Basics</title>
     <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
@@ -70,23 +88,6 @@
     <author>Dillon</author>
     <guid>https://dalehassinger.github.io/hugo-loveit/emoji-support/</guid>
     <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://dalehassinger.github.io/hugo-loveit/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://dalehassinger.github.io/hugo-loveit/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>]]></description>
 </item>
 </channel>
 </rss>
