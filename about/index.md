@@ -3,13 +3,13 @@
 
 {{< image src="author.png" caption="">}}
 
->If you can script it, You can Automate it!  
-
 {{< admonition type=info title="about" open=true >}}
-* TAM (Technical Account Manager)  
+* VMware TAM (Technical Account Manager)  
 * VMware vExpert 2020 - 2022  
 * VMware vExpert Cloud Management 2021 - 2022  
 {{< /admonition >}}
+
+>If you can script it, You can Automate it!  
 
 {{< image src="vexpert-2022.png" caption="">}}
 {{< image src="vexpert-2022-3-stars.png" caption="" >}}

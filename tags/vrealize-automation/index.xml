@@ -12,5 +12,14 @@
     <guid>https://dalehassinger.github.io/hugo-loveit/vmware-aria-automation-ansible-integration/</guid>
     <description><![CDATA[<p>How to setup and configure your VMware Aria Automation environment to work with Ansible.</p>]]></description>
 </item>
+<item>
+    <title>VMware PowerBlock | August 2022</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/vmware-powerblock-08-2022/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/vmware-powerblock-08-2022/</guid>
+    <description><![CDATA[<p><strong>VMware PowerBlock | August 2022</strong></p>
+<hr>]]></description>
+</item>
 </channel>
 </rss>

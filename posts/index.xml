@@ -31,6 +31,24 @@
 <hr>]]></description>
 </item>
 <item>
+    <title>Central PA VMUG | August 2022</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/centra-pa-vmug-08-2022/</link>
+    <pubDate>Wed, 24 Aug 2022 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/centra-pa-vmug-08-2022/</guid>
+    <description><![CDATA[<p><strong>VMware Explore 2022 | San Francisco</strong></p>
+<hr>]]></description>
+</item>
+<item>
+    <title>VMware PowerBlock | August 2022</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/vmware-powerblock-08-2022/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/vmware-powerblock-08-2022/</guid>
+    <description><![CDATA[<p><strong>VMware PowerBlock | August 2022</strong></p>
+<hr>]]></description>
+</item>
+<item>
     <title>Theme Documentation - Basics</title>
     <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-basics/</link>
     <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
@@ -69,23 +87,6 @@
     <author>Dillon</author>
     <guid>https://dalehassinger.github.io/hugo-loveit/basic-markdown-syntax/</guid>
     <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>https://dalehassinger.github.io/hugo-loveit/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://dalehassinger.github.io/hugo-loveit/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Emoji Support</title>
-    <link>https://dalehassinger.github.io/hugo-loveit/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://dalehassinger.github.io/hugo-loveit/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
 </item>
 </channel>
 </rss>
