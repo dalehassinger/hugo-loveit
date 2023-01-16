@@ -187,12 +187,36 @@
 <hr>]]></description>
 </item>
 <item>
+    <title>How to use PowerShell Modules with vRA 8.2</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/vra-82-powershell-host/</link>
+    <pubDate>Mon, 18 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/vra-82-powershell-host/</guid>
+    <description><![CDATA[<p><strong>Options to use PowerShell Modules</strong></p>]]></description>
+</item>
+<item>
     <title>How to be successful with VMware vRealize Products in your environment</title>
     <link>https://dalehassinger.github.io/hugo-loveit/recipe-for-success/</link>
     <pubDate>Fri, 15 Jan 2021 00:00:00 &#43;0000</pubDate>
     <author>Dale Hassinger</author>
     <guid>https://dalehassinger.github.io/hugo-loveit/recipe-for-success/</guid>
     <description><![CDATA[<p><strong>How to be successful with VMware vRealize Products in your environment</strong></p>]]></description>
+</item>
+<item>
+    <title>Creating Charts with ChartJS and displaying in vRealize Operations</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/chartjs/</link>
+    <pubDate>Sun, 03 Jan 2021 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/chartjs/</guid>
+    <description><![CDATA[<p><strong>Creating Charts with ChartJS and displaying in vRealize Operations</strong></p>]]></description>
+</item>
+<item>
+    <title>vBrownbag VMworld Presentation</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/vbrownbag-presentation/</link>
+    <pubDate>Thu, 01 Oct 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/vbrownbag-presentation/</guid>
+    <description><![CDATA[<p><strong>How to use vRealize Operations as your monitoring &ldquo;Single Pane of Glass&rdquo;</strong></p>]]></description>
 </item>
 <item>
     <title>Text Display Widget - More Powerful than just displaying text on a Dashboard...</title>
@@ -204,12 +228,52 @@
 <hr>]]></description>
 </item>
 <item>
+    <title>Infoblox 1.1 plugin for vRA 8.1</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/infoblox/</link>
+    <pubDate>Sun, 14 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dan Grove</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/infoblox/</guid>
+    <description><![CDATA[<p><strong>Infoblox 1.1 plugin for vRA 8.1</strong></p>]]></description>
+</item>
+<item>
+    <title>What is vRealize Automation - Episode 21</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/it-reality/</link>
+    <pubDate>Fri, 29 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/it-reality/</guid>
+    <description><![CDATA[<p><strong>IT Reality Podcast</strong></p>]]></description>
+</item>
+<item>
+    <title>vRealize Automation 8.1 - PowerShell ABX</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/vra81-abx-ps/</link>
+    <pubDate>Sun, 17 May 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/vra81-abx-ps/</guid>
+    <description><![CDATA[<p><strong>Options to use PowerShell Modules</strong></p>]]></description>
+</item>
+<item>
     <title>Clay Thrower | Powered By: Raspberry PI</title>
     <link>https://dalehassinger.github.io/hugo-loveit/clay-thrower/</link>
     <pubDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</pubDate>
     <author>Dale Hassinger</author>
     <guid>https://dalehassinger.github.io/hugo-loveit/clay-thrower/</guid>
     <description><![CDATA[<p><strong>Clay Thrower | Powered By: Raspberry PI</strong></p>]]></description>
+</item>
+<item>
+    <title>One way to do Automation in a Zero Trust Environment</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/automation-zero-trust/</link>
+    <pubDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/automation-zero-trust/</guid>
+    <description><![CDATA[<p><strong>Automation with Zero Trust</strong></p>]]></description>
+</item>
+<item>
+    <title>PowerCLI Getting Started</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/powercli-getting-started/</link>
+    <pubDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/powercli-getting-started/</guid>
+    <description><![CDATA[<p><strong>PowerCLI Basics</strong></p>]]></description>
 </item>
 </channel>
 </rss>

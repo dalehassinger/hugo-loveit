@@ -24,13 +24,21 @@
             <loc>https://dalehassinger.github.io/hugo-loveit/saltstack-config-part-01/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/vrealize-operations-right-size/</loc><lastmod>2023-01-13T20:42:03-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/schedule-rvtools/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/vra-82-powershell-host/</loc><lastmod>2021-01-18T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/recipe-for-success/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/chartjs/</loc><lastmod>2021-01-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/vbrownbag-presentation/</loc><lastmod>2020-10-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/text-display-widget/</loc><lastmod>2023-01-13T20:42:03-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/infoblox/</loc><lastmod>2020-06-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/it-reality/</loc><lastmod>2020-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/vra81-abx-ps/</loc><lastmod>2020-05-17T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/clay-thrower/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/automation-zero-trust/</loc><lastmod>2020-04-19T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/powercli-getting-started/</loc><lastmod>2020-04-19T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/ansible/</loc><lastmod>2023-01-01T09:33:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/automation/</loc><lastmod>2023-01-01T22:02:16-05:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://dalehassinger.github.io/hugo-loveit/about/</loc><lastmod>2023-01-13T20:42:03-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/about/</loc><lastmod>2023-01-15T23:01:45-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/links/</loc><lastmod>2023-01-13T20:42:03-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/pics/</loc><lastmod>2023-01-01T09:33:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/posts/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -103,11 +111,25 @@
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/rvtools/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/rvtools/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/vrealize-orchestrator/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/abx/</loc><lastmod>2021-01-18T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/categories/vrealize-automation/</loc><lastmod>2021-01-18T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/career/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/recipe-for-success/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/training/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/chartjs/</loc><lastmod>2021-01-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/citrix/</loc><lastmod>2021-01-03T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/podcast/</loc><lastmod>2020-10-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/vbrownbag/</loc><lastmod>2020-10-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/categories/vbrownbag/</loc><lastmod>2020-10-01T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/dan-grove/</loc><lastmod>2020-06-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/infoblox/</loc><lastmod>2020-06-14T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/it-reality/</loc><lastmod>2020-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/categories/podcast/</loc><lastmod>2020-05-29T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/clay-thrower/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/nsx/</loc><lastmod>2020-04-19T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/php/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/tags/powercli/</loc><lastmod>2020-04-19T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://dalehassinger.github.io/hugo-loveit/categories/powercli/</loc><lastmod>2020-04-19T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/tags/raspberry-pi/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/raspberry-pi/</loc><lastmod>2023-01-15T22:11:05-05:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://dalehassinger.github.io/hugo-loveit/categories/documentation/</loc><lastmod>2023-01-01T09:33:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url><url>

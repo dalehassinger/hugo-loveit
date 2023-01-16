@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PowerCLI - Tag - vCROCS</title>
+        <link>https://dalehassinger.github.io/hugo-loveit/tags/powercli/</link>
+        <description>PowerCLI - Tag - vCROCS</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Dale.Hassinger@vCROCS.info (| Dale Hassinger)</managingEditor>
+            <webMaster>Dale.Hassinger@vCROCS.info (| Dale Hassinger)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://dalehassinger.github.io/hugo-loveit/tags/powercli/" rel="self" type="application/rss+xml" /><item>
+    <title>One way to do Automation in a Zero Trust Environment</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/automation-zero-trust/</link>
+    <pubDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/automation-zero-trust/</guid>
+    <description><![CDATA[<p><strong>Automation with Zero Trust</strong></p>]]></description>
+</item>
+<item>
+    <title>PowerCLI Getting Started</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/powercli-getting-started/</link>
+    <pubDate>Sun, 19 Apr 2020 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/powercli-getting-started/</guid>
+    <description><![CDATA[<p><strong>PowerCLI Basics</strong></p>]]></description>
+</item>
+</channel>
+</rss>
