@@ -30,6 +30,14 @@
     <description><![CDATA[<p><strong>Manage Windows Workloads Through vRealize Automation SaltStack Config [MCL1895]</strong></p>]]></description>
 </item>
 <item>
+    <title>Automating Automation (Updated)</title>
+    <link>https://dalehassinger.github.io/hugo-loveit/automating-automation/</link>
+    <pubDate>Thu, 29 Apr 2021 00:00:00 &#43;0000</pubDate>
+    <author>Dale Hassinger</author>
+    <guid>https://dalehassinger.github.io/hugo-loveit/automating-automation/</guid>
+    <description><![CDATA[<p><strong>Using vRO REST API. - (Updated for vRA 8.4)</strong></p>]]></description>
+</item>
+<item>
     <title>How to use PowerShell Modules with vRA 8.2</title>
     <link>https://dalehassinger.github.io/hugo-loveit/vra-82-powershell-host/</link>
     <pubDate>Mon, 18 Jan 2021 00:00:00 &#43;0000</pubDate>
